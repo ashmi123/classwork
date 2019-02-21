@@ -1,4 +1,0 @@
-browser-choice=1
-browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="1">\n<system/>\n<external location\="/usr/bin/firefox" name\="Firefox"/>\n<external location\="/." name\="BrowserSim"/>\n</web-browsers>
-eclipse.preferences.version=1
-internalWebBrowserHistory=file\:/home/ashmi/eclipse/plugins/org.springsource.ide.eclipse.commons.gettingstarted_3.8.0.201606300730-RELEASE/resources/welcome/index.html|*|file\:/home/ashmi/myjava/test/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1512660682883/index.html|*|file\:/home/ashmi/myjava/test/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1512649457179/index.html|*|http\://localhost\:8080/Day_5.2/Index.html|*|
