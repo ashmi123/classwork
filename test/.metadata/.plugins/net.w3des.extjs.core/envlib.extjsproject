@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:extjs="http://extjs.w3des.net/1.0">
+  <extjs:ExecutionEnvironment name="core-extjs-3.4" builtin="true" facet="wst.jsdt.extjs.core">
+    <versions>3.4</versions>
+  </extjs:ExecutionEnvironment>
+  <extjs:ExecutionEnvironment name="core-extjs-4.2" builtin="true" facet="wst.jsdt.extjs.core">
+    <versions>4.2</versions>
+  </extjs:ExecutionEnvironment>
+  <extjs:ExecutionEnvironment name="core-extjs-5.0" builtin="true" facet="wst.jsdt.extjs.core">
+    <versions>5.0</versions>
+  </extjs:ExecutionEnvironment>
+  <extjs:ExecutionEnvironment name="core-extjs-4.1" builtin="true" facet="wst.jsdt.extjs.core">
+    <versions>4.1</versions>
+  </extjs:ExecutionEnvironment>
+  <extjs:ExecutionEnvironment name="core-extjs-4.0" builtin="true" facet="wst.jsdt.extjs.core">
+    <versions>4.0</versions>
+  </extjs:ExecutionEnvironment>
+  <extjs:ExecutionEnvironment name="core-touch-2.3" builtin="true" facet="wst.jsdt.extjs.touch">
+    <versions>2.3</versions>
+  </extjs:ExecutionEnvironment>
+</xmi:XMI>
